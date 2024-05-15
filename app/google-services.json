@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354706825596",
+    "project_id": "sistemademarketplace",
+    "storage_bucket": "sistemademarketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354706825596:android:e5382b67a378b7044044f9",
+        "android_client_info": {
+          "package_name": "com.example.sistemademarketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRP1gjS30PArLlDeyUWKzSaIbwZ581mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
